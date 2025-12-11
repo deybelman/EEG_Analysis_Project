@@ -39,5 +39,5 @@ data/
 Once the data files are in place and dependencies are installed, you can run the analysis notebook `analysis final.ipynb` to perform the EEG data analysis.
 
 ## Authors
-- Pearl Werbach (@pearlwerbach)
-- Daniel Eybelman (@deybelman)
+- Pearl Werbach ([@pearlwerbach](https://github.com/pearlwerbach))
+- Daniel Eybelman ([@deybelman](https://github.com/deybelman))
