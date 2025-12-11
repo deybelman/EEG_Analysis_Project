@@ -1,6 +1,7 @@
-# EEG Data Analysis Project
+# Alpha-Band Entropy Suppression Tracks Cortical State Transitions During High Arousal
+## EEG Data Analysis Project
 
-This EEG data analysis project was developed by **Daniel Eybelman** (Applied Mathematics, '29) and **Pearl Werbach** (Neuroscience, '28) for an iGEM undergraduate computational biology symposium at UC Berkeley.
+This EEG data analysis project was developed by **Daniel Eybelman** (Applied Mathematics, '29) and **Pearl Werbach** (Neuroscience, '28) for an iGEM undergraduate computational biology symposium at UC Berkeley. The completed poster can be found in this repository.
 
 ## Setup
 
